@@ -4,6 +4,7 @@ We love Open Source and contribute on a daily basis to Plone, our favorite Open 
 
 ## Plone Add-Ons
 
+* [@kitconcept/volto-blocks-grid](https://www.npmjs.com/package/@kitconcept/volto-blocks-grid): Sophisticated Grid Layouts for Plone 6
 * [kitconcept.contentcreator](https://pypi.org/project/kitconcept.contentcreator): Create Plone content via JSON
 * [kitconcept.dsgvo](https://pypi.org/project/kitconcept.dsgvo): DSGVO / GDPR compliance for Plone.
 * [kitconcept.glossary](https://pypi.org/project/kitconcept.glossary/): Plone add-on product to define a glossary.
@@ -16,7 +17,7 @@ We love Open Source and contribute on a daily basis to Plone, our favorite Open 
 * [collective.ploneboard](https://pypi.org/project/collective.ploneboard/): Web board for the Plone Content Management System
 * [collective.embeddedpage](https://pypi.org/project/collective.embeddedpage/): Add-on to embed remote HTML pages into the Plone CMS
 * [collective.mailchimp](https://pypi.org/project/collective.mailchimp/): MailChimp integration for Plone.
-* [kitconcept.recipe.solr](https://pypi.org/project/kitconcept.recipe.solr/): Buildout recipe for Solr.
+* [kitconcept.recipe.solr](https://pypi.org/project/kitconcept.recipe.solr/): Buildout recipe for Solr
 * [plone.formwidget.captcha](plone.formwidget.captcha): Captcha Widget for Plone
 * [plone.formwidget.recaptcha](plone.formwidget.rcaptcha): Re-Captcha Widget for Plone
 * [collective.aktismet](collective.akismet): Akismet plugin for plone.app.discussion
