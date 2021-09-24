@@ -32,11 +32,11 @@ We significantly contributed to all Plone major versions since Plone 3. Here are
 * [plone.restapi](https://pypi.org/project/plone.restapi/): REST API for Plone (Timo Stollenwerk)
 * [plonetheme.barceloneta](https://pypi.org/project/plonetheme.barceloneta/): The default theme for Plone 5 (Victor Fernandez de Alba)
 * [plone.app.multilingual](https://pypi.org/project/plone.app.multilingual/): Multilingual extension for Plone 5 (Victor Fernandez de Alba)
+* [plone.app.contenttypes](https://pypi.python.org/pypi/plone.app.contenttypes): Default content type framework for Plone 4 (Timo Stollenwerk)
 
 ### Plone 4
 
 * [plone.app.discusion](https://pypi.org/project/plone.app.discussion/): Discussion Framework for Plone (Timo Stollenwerk)
-* [plone.app.contenttypes](https://pypi.python.org/pypi/plone.app.contenttypes): Default content type framework for Plone 4 (Timo Stollenwerk)
 
 ## Plone Open Source Community
 
