@@ -35,7 +35,7 @@ We significantly contributed to all Plone major versions since Plone 3. Here are
 
 ### Plone 4
 
-* [plone.app.discusion](https://pypi.org/project/plone.app.discussion/): Discussion Framework for Plone
+* [plone.app.discusion](https://pypi.org/project/plone.app.discussion/): Discussion Framework for Plone (Timo Stollenwerk)
 * [plone.app.contenttypes](https://pypi.python.org/pypi/plone.app.contenttypes): Default content type framework for Plone 4 (Timo Stollenwerk)
 
 ## Plone Open Source Community
