@@ -1,13 +1,11 @@
 {
     "name": "Black",
     "description": "Black workflow action by kitconcept",
-    "iconName": "example-icon",
     "categories": [
-        "Go"
+        "Python"
     ],
     "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
+        "requirements.txt$",
+        "^setup.py"
     ]
 }
