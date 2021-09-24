@@ -17,6 +17,9 @@ We love Open Source and contribute on a daily basis to Plone, our favorite Open 
 * [collective.embeddedpage](https://pypi.org/project/collective.embeddedpage/): Add-on to embed remote HTML pages into the Plone CMS
 * [collective.mailchimp](https://pypi.org/project/collective.mailchimp/): MailChimp integration for Plone.
 * [kitconcept.recipe.solr](https://pypi.org/project/kitconcept.recipe.solr/): Buildout recipe for Solr.
+* [plone.formwidget.captcha](plone.formwidget.captcha): Captcha Widget for Plone
+* [plone.formwidget.recaptcha](plone.formwidget.rcaptcha): Re-Captcha Widget for Plone
+* [collective.aktismet](collective.akismet): Akismet plugin for plone.app.discussion
 
 ## Plone Core Contributions
 
