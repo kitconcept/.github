@@ -6,7 +6,7 @@ We love Open Source and contribute on a daily basis to Plone, our favorite Open 
 
 * [kitconcept.contentcreator](https://pypi.org/project/kitconcept.contentcreator): Create Plone content via JSON
 * [kitconcept.dsgvo](https://pypi.org/project/kitconcept.dsgvo): DSGVO / GDPR compliance for Plone.
-* [kitconcept.glossary|(https://pypi.org/project/kitconcept.glossary/): Plone add-on product to define a glossary.
+* [kitconcept.glossary](https://pypi.org/project/kitconcept.glossary/): Plone add-on product to define a glossary.
 * [kitconcept.seo](https://pypi.org/project/kitconcept.seo): SEO optimizations plugin for Plone
 * [kitconcept.timeline](https://pypi.org/project/kitconcept.timeline): Plone add-on that allows to create a timeline.
 * [kitconcept.volto](https://pypi.org/project/kitconcept.volto/): Volto integration add-on for Plone
@@ -24,7 +24,7 @@ We significantly contributed to all Plone major versions since Plone 3. Here are
 
 ## Plone 6
 
-* Volto (Plone 6 default frontend)
+* [Volto](https://www.npmjs.com/package/@plone/volto): The Plone 6 frontend, written in ReactJS (Victor Fernandez de Alba, Timo Stollenwerk, Érico Andrei, Jakob Kahl, Steffen Ring, Alok Kumar)
 
 # Plone 5
 
