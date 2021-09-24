@@ -6,7 +6,7 @@ We love Open Source and contribute on a daily basis to Plone, our favorite Open 
 
 * [@kitconcept/volto-blocks-grid](https://www.npmjs.com/package/@kitconcept/volto-blocks-grid): Sophisticated Grid Layouts for Plone 6
 * [kitconcept.contentcreator](https://pypi.org/project/kitconcept.contentcreator): Create Plone content via JSON
-* [kitconcept.dsgvo](https://pypi.org/project/kitconcept.dsgvo): DSGVO / GDPR compliance for Plone
+* [kitconcept.dsgvo](https://pypi.org/project/kitconcept.dsgvo): DSGVO/GDPR compliance for Plone
 * [kitconcept.glossary](https://pypi.org/project/kitconcept.glossary/): Plone add-on product to define a glossary
 * [kitconcept.seo](https://pypi.org/project/kitconcept.seo): SEO optimizations plugin for Plone
 * [kitconcept.timeline](https://pypi.org/project/kitconcept.timeline): Plone add-on that allows to create a timeline.
