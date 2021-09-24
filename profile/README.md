@@ -1,4 +1,4 @@
-## Hi there 👋, we are kitconcept, a Plone Agency with offices in Bonn and Barcelona.
+# Hi there 👋, we are kitconcept, a Plone Agency with offices in Bonn and Barcelona.
 
 We love Open Source and contribute on a daily basis to Plone, our favorite Open Source project.
 
@@ -18,27 +18,27 @@ We love Open Source and contribute on a daily basis to Plone, our favorite Open 
 * [collective.mailchimp](https://pypi.org/project/collective.mailchimp/): MailChimp integration for Plone.
 * [kitconcept.recipe.solr](https://pypi.org/project/kitconcept.recipe.solr/): Buildout recipe for Solr.
 
-# Plone Core Contributions
+## Plone Core Contributions
 
 We significantly contributed to all Plone major versions since Plone 3. Here are a few packages that kitconcept team members authored or co-authored.
 
-## Plone 6
+### Plone 6
 
 * [Volto](https://www.npmjs.com/package/@plone/volto): The Plone 6 frontend, written in ReactJS (Victor Fernandez de Alba, Timo Stollenwerk, Érico Andrei, Jakob Kahl, Steffen Ring, Alok Kumar)
 
-# Plone 5
+### Plone 5
 
 * [plone.rest](https://pypi.org/project/plone.rest/): REST API for Plone (Timo Stollenwerk)
 * [plone.restapi](https://pypi.org/project/plone.restapi/): REST API for Plone (Timo Stollenwerk)
 * [plonetheme.barceloneta](https://pypi.org/project/plonetheme.barceloneta/): The default theme for Plone 5 (Victor Fernandez de Alba)
 * [plone.app.multilingual](https://pypi.org/project/plone.app.multilingual/): Multilingual extension for Plone 5 (Victor Fernandez de Alba)
 
-# Plone 4
+### Plone 4
 
 * [plone.app.discusion](https://pypi.org/project/plone.app.discussion/): Discussion Framework for Plone
 * [plone.app.contenttypes](https://pypi.python.org/pypi/plone.app.contenttypes): Default content type framework for Plone 4 (Timo Stollenwerk)
 
-# Plone Open Source Community
+## Plone Open Source Community
 
 We are a vital part of the Plone Open Source Community.
 
