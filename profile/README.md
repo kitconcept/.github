@@ -44,26 +44,16 @@ We significantly contributed to all Plone major versions since Plone 3. Here are
 
 ## Plone Open Source Community
 
-We are a vital part of the Plone Open Source Community.
+We are a vital part of the Plone Open Source Community. All our team members are Plone core developers. We have three Plone Foundation Members. Our team members server on the Plone Board of Directors, the Volto Team, The Framework Team, The Release Team and the Roadmap Team.
 
-Plone Core Developers:
+Plone Board Of Directors:
 
-- Timo Stollenwerk
 - Victor Fernandez de Alba
 - Érico Andrei
-- Jakob Kahl
-- Steffen Ring
-- Thomas Kindermann
-- Alok Kumar
 
 Plone Foundation Members:
 
 - Timo Stollenwerk
-- Victor Fernandez de Alba
-- Érico Andrei
-
-Plone Board Of Directors:
-
 - Victor Fernandez de Alba
 - Érico Andrei
 
@@ -84,3 +74,13 @@ Framework Team:
 Roadmap Team:
 
 - Timo Stollenwerk
+
+Plone Core Developers:
+
+- Timo Stollenwerk
+- Victor Fernandez de Alba
+- Érico Andrei
+- Jakob Kahl
+- Steffen Ring
+- Thomas Kindermann
+- Alok Kumar
