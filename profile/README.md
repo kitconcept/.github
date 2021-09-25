@@ -11,16 +11,16 @@ We love Open Source and contribute on a daily basis to [Plone](https://plone.org
 * [kitconcept.seo](https://pypi.org/project/kitconcept.seo): SEO optimizations plugin for Plone
 * [kitconcept.timeline](https://pypi.org/project/kitconcept.timeline): Plone add-on that allows to create a timeline.
 * [kitconcept.volto](https://pypi.org/project/kitconcept.volto/): Volto integration add-on for Plone
+* [kitconcept.recipe.solr](https://pypi.org/project/kitconcept.recipe.solr/): Buildout recipe for Solr
 * [pas.plugins.memberpropertytogroup](https://pypi.org/project/pas.plugins.memberpropertytogroup/): Plone PAS plugin to create virtual groups based on member properties
 * [collective.disableuser](https://pypi.org/project/collective.disableuser/): Blocks login for specified users
 * [collective.faq](https://pypi.org/project/collective.faq/): Plone addon package for managing FAQ sections
 * [collective.ploneboard](https://pypi.org/project/collective.ploneboard/): Web board for the Plone Content Management System
 * [collective.embeddedpage](https://pypi.org/project/collective.embeddedpage/): Add-on to embed remote HTML pages into the Plone CMS
 * [collective.mailchimp](https://pypi.org/project/collective.mailchimp/): MailChimp integration for Plone
-* [kitconcept.recipe.solr](https://pypi.org/project/kitconcept.recipe.solr/): Buildout recipe for Solr
+* [collective.aktismet](collective.akismet): Akismet plugin for plone.app.discussion
 * [plone.formwidget.captcha](plone.formwidget.captcha): Captcha Widget for Plone
 * [plone.formwidget.recaptcha](plone.formwidget.rcaptcha): Re-Captcha Widget for Plone
-* [collective.aktismet](collective.akismet): Akismet plugin for plone.app.discussion
 
 ## Plone Core Contributions
 
