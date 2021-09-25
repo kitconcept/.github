@@ -8,7 +8,7 @@ We love Open Source and contribute on a daily basis to [Plone](https://plone.org
 * [kitconcept.contentcreator](https://pypi.org/project/kitconcept.contentcreator): Create Plone content via JSON
 * [kitconcept.dsgvo](https://pypi.org/project/kitconcept.dsgvo): DSGVO/GDPR compliance for Plone
 * [kitconcept.glossary](https://pypi.org/project/kitconcept.glossary/): Plone add-on product to define a glossary
-* [kitconcept.seo](https://pypi.org/project/kitconcept.seo): SEO optimizations plugin for Plone
+* [kitconcept.seo](https://pypi.org/project/kitconcept.seo): SEO optimizations plugin for Plone
 * [kitconcept.timeline](https://pypi.org/project/kitconcept.timeline): Plone add-on that allows to create a timeline.
 * [kitconcept.volto](https://pypi.org/project/kitconcept.volto/): Volto integration add-on for Plone
 * [pas.plugins.memberpropertytogroup](https://pypi.org/project/pas.plugins.memberpropertytogroup/): Plone PAS plugin to create virtual groups based on member properties
