@@ -1,4 +1,4 @@
-# Hi there 👋, we are kitconcept, a Plone Agency from Bonn and Barcelona.
+# Hi there 👋, we are kitconcept, a Plone Agency from Bonn and Barcelona
 
 We love Open Source and contribute on a daily basis to [Plone](https://plone.org), and other Open Source projects.
 
