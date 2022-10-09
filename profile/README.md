@@ -2,7 +2,7 @@
 
 We love Open Source and contribute on a daily basis to [Plone](https://plone.org), and other Open Source projects.
 
-## Plone Add-Ons
+## Plone 6 (Volto) Add-Ons
 
 * [@kitconcept/volto-blocks-grid](https://www.npmjs.com/package/@kitconcept/volto-blocks-grid): Sophisticated Grid Layouts for Plone 6 (Volto)
 * [@kitconcept/volto-heading-block](https://www.npmjs.com/package/@kitconcept/volto-heading-block): Heading block for Plone 6 (Volto)
@@ -12,6 +12,9 @@ We love Open Source and contribute on a daily basis to [Plone](https://plone.org
 * [@kitconcept/volto-carousel-block](https://www.npmjs.com/package/@kitconcept/volto-carousel-block): Carousel block for Plone 6 (Volto)
 * [@kitconcept/volto-text-with-background-color-block](https://www.npmjs.com/package/@kitconcept/volto-text-with-background-color-block): Text with background color block for Plone 6 (Volto)
 * [@kitconcept/volto-dsgvo-banner](https://www.npmjs.com/package/@kitconcept/volto-dsgvo-banner): GDPR/DSGVO banner for Plone 6 (Volto)
+
+## Plone Backend Add-Ons (Plone Classic)
+
 * [kitconcept.contentcreator](https://pypi.org/project/kitconcept.contentcreator): Create Plone content via JSON
 * [kitconcept.dsgvo](https://pypi.org/project/kitconcept.dsgvo): DSGVO/GDPR compliance for Plone
 * [kitconcept.glossary](https://pypi.org/project/kitconcept.glossary/): Plone add-on product to define a glossary
