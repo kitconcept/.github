@@ -2,7 +2,7 @@
 
 We love Open Source and contribute on a daily basis to [Plone](https://plone.org), and other Open Source projects.
 
-## Plone 6 (Volto) Add-Ons
+## Plone 6 Frontend (Volto) Add-Ons
 
 * [@kitconcept/volto-blocks-grid](https://www.npmjs.com/package/@kitconcept/volto-blocks-grid): Sophisticated Grid Layouts for Plone 6 (Volto)
 * [@kitconcept/volto-heading-block](https://www.npmjs.com/package/@kitconcept/volto-heading-block): Heading block for Plone 6 (Volto)
@@ -13,20 +13,23 @@ We love Open Source and contribute on a daily basis to [Plone](https://plone.org
 * [@kitconcept/volto-text-with-background-color-block](https://www.npmjs.com/package/@kitconcept/volto-text-with-background-color-block): Text with background color block for Plone 6 (Volto)
 * [@kitconcept/volto-dsgvo-banner](https://www.npmjs.com/package/@kitconcept/volto-dsgvo-banner): GDPR/DSGVO banner for Plone 6 (Volto)
 
-## Plone Backend Add-Ons (Plone Classic)
+## Plone 6 Backend Add-Ons
 
 * [kitconcept.contentcreator](https://pypi.org/project/kitconcept.contentcreator): Create Plone content via JSON
-* [kitconcept.dsgvo](https://pypi.org/project/kitconcept.dsgvo): DSGVO/GDPR compliance for Plone
-* [kitconcept.glossary](https://pypi.org/project/kitconcept.glossary/): Plone add-on product to define a glossary
 * [kitconcept.seo](https://pypi.org/project/kitconcept.seo): SEO optimizations plugin for Plone
-* [kitconcept.timeline](https://pypi.org/project/kitconcept.timeline): Plone add-on that allows to create a timeline.
 * [kitconcept.volto](https://pypi.org/project/kitconcept.volto/): Volto integration add-on for Plone
 * [kitconcept.recipe.solr](https://pypi.org/project/kitconcept.recipe.solr/): Buildout recipe for Solr
 * [pas.plugins.memberpropertytogroup](https://pypi.org/project/pas.plugins.memberpropertytogroup/): Plone PAS plugin to create virtual groups based on member properties
+* [collective.embeddedpage](https://pypi.org/project/collective.embeddedpage/): Add-on to embed remote HTML pages into the Plone CMS
+
+## Plone Classic Add-Ons
+
+* [kitconcept.dsgvo](https://pypi.org/project/kitconcept.dsgvo): DSGVO/GDPR compliance for Plone
+* [kitconcept.glossary](https://pypi.org/project/kitconcept.glossary/): Plone add-on product to define a glossary
+* [kitconcept.timeline](https://pypi.org/project/kitconcept.timeline): Plone add-on that allows to create a timeline.
 * [collective.disableuser](https://pypi.org/project/collective.disableuser/): Blocks login for specified users
 * [collective.faq](https://pypi.org/project/collective.faq/): Plone addon package for managing FAQ sections
 * [collective.ploneboard](https://pypi.org/project/collective.ploneboard/): Web board for the Plone Content Management System
-* [collective.embeddedpage](https://pypi.org/project/collective.embeddedpage/): Add-on to embed remote HTML pages into the Plone CMS
 * [collective.mailchimp](https://pypi.org/project/collective.mailchimp/): MailChimp integration for Plone
 * [collective.aktismet](collective.akismet): Akismet plugin for plone.app.discussion
 * [plone.formwidget.captcha](plone.formwidget.captcha): Captcha Widget for Plone
