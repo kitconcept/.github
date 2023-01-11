@@ -4,6 +4,8 @@ We love Open Source and contribute on a daily basis to [Plone](https://plone.org
 
 ## Plone 6 Frontend (Volto) Add-Ons
 
+### Blocks
+
 * [@kitconcept/volto-blocks-grid](https://www.npmjs.com/package/@kitconcept/volto-blocks-grid): Sophisticated Grid Layouts for Plone 6 (Volto)
 * [@kitconcept/volto-heading-block](https://www.npmjs.com/package/@kitconcept/volto-heading-block): Heading block for Plone 6 (Volto)
 * [@kitconcept/volto-slider-block](https://www.npmjs.com/package/@kitconcept/volto-slider-block): Slider block for Plone 6 (Volto)
@@ -11,6 +13,9 @@ We love Open Source and contribute on a daily basis to [Plone](https://plone.org
 * [@kitconcept/volto-separator-block](https://www.npmjs.com/package/@kitconcept/volto-separator-block): Separator block for Plone 6 (Volto)
 * [@kitconcept/volto-carousel-block](https://www.npmjs.com/package/@kitconcept/volto-carousel-block): Carousel block for Plone 6 (Volto)
 * [@kitconcept/volto-text-with-background-color-block](https://www.npmjs.com/package/@kitconcept/volto-text-with-background-color-block): Text with background color block for Plone 6 (Volto)
+
+### Others
+
 * [@kitconcept/volto-dsgvo-banner](https://www.npmjs.com/package/@kitconcept/volto-dsgvo-banner): GDPR/DSGVO banner for Plone 6 (Volto)
 
 ## Plone 6 Backend Add-Ons
