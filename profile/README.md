@@ -17,6 +17,7 @@ We love Open Source and contribute on a daily basis to [Plone](https://plone.org
 ### Others
 
 * [@kitconcept/volto-dsgvo-banner](https://www.npmjs.com/package/@kitconcept/volto-dsgvo-banner): GDPR/DSGVO banner for Plone 6 (Volto)
+* [@kitconcept/volto-export](https://www.npmjs.com/package/@kitconcept/volto-export): Content export in  `plone.restapi`/`kitconcept.contentcreator` JSON format.
 
 ## Plone 6 Backend Add-Ons
 
