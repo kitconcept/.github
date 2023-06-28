@@ -13,6 +13,7 @@ We love Open Source and contribute on a daily basis to [Plone](https://plone.org
 * [@kitconcept/volto-separator-block](https://www.npmjs.com/package/@kitconcept/volto-separator-block): Separator block for Plone 6 (Volto)
 * [@kitconcept/volto-carousel-block](https://www.npmjs.com/package/@kitconcept/volto-carousel-block): Carousel block for Plone 6 (Volto)
 * [@kitconcept/volto-text-with-background-color-block](https://www.npmjs.com/package/@kitconcept/volto-text-with-background-color-block): Text with background color block for Plone 6 (Volto)
+* [@kitconcept/volto-introduction-block](https://www.npmjs.com/package/@kitconcept/volto-introduction-block): Introduction text block for Plone 6 (Volto)
 
 ### Others
 
