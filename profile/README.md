@@ -1,6 +1,6 @@
 # Hi there 👋, we are kitconcept, a Plone Agency from Bonn and Barcelona
 
-We love Open Source and contribute on a daily basis to [Plone](https://plone.org), and other Open Source projects.
+We love Open Source and contribute daily to [Plone](https://plone.org)](https://plone.org), and other Open Source projects.
 
 ## Plone 6 Frontend (Volto) Add-Ons
 
@@ -65,18 +65,9 @@ We significantly contributed to all Plone major versions since Plone 3. Here are
 
 ## Plone Open Source Community
 
-We are a vital part of the Plone Open Source Community. All our team members are Plone core developers. We have three Plone Foundation Members. Our team members server on the Plone Board of Directors, the Volto Team, The Framework Team, The Release Team and the Roadmap Team.
+We are a vital part of the Plone Community and Plone Foundation.
 
-Plone Board Of Directors:
-
-- Victor Fernandez de Alba
-- Érico Andrei
-
-Plone Foundation Members:
-
-- Timo Stollenwerk
-- Victor Fernandez de Alba
-- Érico Andrei
+All our team members are Plone core developers, and also members of community teams like Volto, AI, CI/CD, and Release.
 
 Volto Team:
 
@@ -84,17 +75,18 @@ Volto Team:
 - Victor Fernandez de Alba
 - Érico Andrei
 
+AI Team:
+
+- Érico Andrei
+
+CI/CD Team:
+
+- David Glick
+
 Release Team:
 
 - Timo Stollenwerk
-
-Framework Team:
-
-- Timo Stollenwerk
-
-Roadmap Team:
-
-- Timo Stollenwerk
+- Victor Fernandez de Alba
 
 Plone Core Developers:
 
@@ -105,3 +97,18 @@ Plone Core Developers:
 - Steffen Ring
 - Thomas Kindermann
 - Alok Kumar
+- David Glick
+
+
+We also have four Plone Foundation Members, including the current President of the  Plone Board of Directors, and the chair of the Membership Committee.
+
+Plone Foundation Board Of Directors:
+
+- Érico Andrei (current President)
+
+Plone Foundation Members:
+
+- Timo Stollenwerk
+- Victor Fernandez de Alba
+- Érico Andrei
+- David Glick
