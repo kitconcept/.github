@@ -4,6 +4,9 @@ run-name: Deployment ${{ inputs.stack-name }} to cluster started by @${{ github.
 on:
   workflow_call:
     inputs:
+      environment:
+        required: true
+        type: string
       stack-name:
         required: true
         type: string
@@ -34,6 +37,7 @@ jobs:
 
   deploy:
     runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
