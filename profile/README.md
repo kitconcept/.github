@@ -16,6 +16,10 @@ We love Open Source and contribute daily to [Plone](https://plone.org)](https://
 * [@kitconcept/volto-introduction-block](https://www.npmjs.com/package/@kitconcept/volto-introduction-block): Introduction text block for Plone 6 (Volto)
 * [@kitconcept/volto-highlight-block](https://www.npmjs.com/package/@kitconcept/volto-highlight-block): Highlight block for Plone 6 (Volto)
 
+### Themes
+
+* [@kitconcept/volto-light-theme](https://www.npmjs.com/package/@kitconcept/volto-light-theme): Volto Light Theme
+
 ### Others
 
 * [@kitconcept/volto-dsgvo-banner](https://www.npmjs.com/package/@kitconcept/volto-dsgvo-banner): GDPR/DSGVO banner for Plone 6 (Volto)
