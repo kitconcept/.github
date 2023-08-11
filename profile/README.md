@@ -1,6 +1,6 @@
 # Hi there 👋, we are kitconcept, a Plone Agency from Bonn and Barcelona
 
-We love Open Source and contribute daily to [Plone](https://plone.org)(https://plone.org), and other Open Source projects.
+We love Open Source and contribute daily to [Plone](https://plone.org), and other Open Source projects.
 
 ## Plone 6 Frontend (Volto) Add-Ons
 
