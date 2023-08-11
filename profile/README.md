@@ -29,6 +29,7 @@ We love Open Source and contribute daily to [Plone](https://plone.org)](https://
 
 * [kitconcept.contentcreator](https://pypi.org/project/kitconcept.contentcreator): Create Plone content via JSON
 * [kitconcept.seo](https://pypi.org/project/kitconcept.seo): SEO optimizations plugin for Plone
+* [kitconcept.solr](https://pypi.org/project/kitconcept.solr): Solr search plugin for Plone
 * [kitconcept.volto](https://pypi.org/project/kitconcept.volto/): Volto integration add-on for Plone
 * [kitconcept.recipe.solr](https://pypi.org/project/kitconcept.recipe.solr/): Buildout recipe for Solr
 * [pas.plugins.memberpropertytogroup](https://pypi.org/project/pas.plugins.memberpropertytogroup/): Plone PAS plugin to create virtual groups based on member properties
