@@ -38,6 +38,7 @@ We love Open Source and contribute to [Plone](https://plone.org) and other Open 
 * [kitconcept.recipe.solr](https://pypi.org/project/kitconcept.recipe.solr/): Buildout recipe for Solr
 * [pas.plugins.memberpropertytogroup](https://pypi.org/project/pas.plugins.memberpropertytogroup/): Plone PAS plugin to create virtual groups based on member properties
 * [collective.embeddedpage](https://pypi.org/project/collective.embeddedpage/): Add-on to embed remote HTML pages into the Plone CMS
+* [collective.blog](https://pypi.org/project/collective.blog/): Blog add-on for Plone 
 
 ## Plone Classic Add-Ons
 
