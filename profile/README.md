@@ -19,6 +19,7 @@ We love Open Source and contribute to [Plone](https://plone.org) and other Open 
 * [@kitconcept/volto-logos-blocks](https://www.npmjs.com/package/@kitconcept/volto-logos-block): Logos block for Plone 6 (Volto)
 * [@kitconcept/volto-quote-block](https://www.npmjs.com/package/@kitconcept/volto-quote-block): Quote block for Plone 6 (Volto)
 * [@kitconcept/volto-testimonials-block](https://www.npmjs.com/package/@kitconcept/volto-testimonials-block): Testimonials block for Plone 6 (Volto)
+* [@kitconcept/volto-banner-block](https://www.npmjs.com/package/@kitconcept/volto-banner-block): Banner block for Plone 6 (Volto)
 
 ### Themes
 
