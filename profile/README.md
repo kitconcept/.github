@@ -99,23 +99,32 @@ Release Team:
 - Timo Stollenwerk
 - Victor Fernandez de Alba
 
+Marketing Team:
+
+- Fred van Dijk
+
 Plone Core Developers:
 
 - Timo Stollenwerk
 - Victor Fernandez de Alba
 - Érico Andrei
+- David Glick
+- Fred van Dijk
 - Jakob Kahl
 - Steffen Ring
-- Thomas Kindermann
 - Alok Kumar
-- David Glick
+- Rohit Kumar
+- Tisha Soumya
+- Jonas Piterek
+- Rob Gietema
+- Balazs Ree
 
-
-We also have four Plone Foundation Members, including the current President of the  Plone Board of Directors, and the chair of the Membership Committee.
+We also have four Plone Foundation Members, including a former President of the  Plone Board of Directors, and the chair of the Membership Committee.
 
 Plone Foundation Board Of Directors:
 
-- Érico Andrei (current President)
+- Érico Andrei (ex President)
+- Victor Fernandez de Alba
 
 Plone Foundation Members:
 
@@ -123,3 +132,5 @@ Plone Foundation Members:
 - Victor Fernandez de Alba
 - Érico Andrei
 - David Glick
+- Balazs Ree
+- Rob Gietema
