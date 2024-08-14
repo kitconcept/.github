@@ -89,6 +89,7 @@ Volto Team:
 AI Team:
 
 - Érico Andrei
+- Fred van Dijk (teamlead)
 
 CI/CD Team:
 
@@ -134,3 +135,4 @@ Plone Foundation Members:
 - David Glick
 - Balazs Ree
 - Rob Gietema
+- Fred van Dijk
