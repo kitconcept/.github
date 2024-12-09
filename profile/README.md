@@ -85,6 +85,7 @@ Volto Team:
 - Timo Stollenwerk
 - Victor Fernandez de Alba
 - Érico Andrei
+- Alok Kumar
 
 AI Team:
 
@@ -103,6 +104,10 @@ Release Team:
 Marketing Team:
 
 - Fred van Dijk
+
+Security Team:
+
+- Jakob Kahl
 
 Plone Core Developers:
 
