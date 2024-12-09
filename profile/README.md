@@ -137,3 +137,4 @@ Plone Foundation Members:
 - Balazs Ree
 - Rob Gietema
 - Fred van Dijk
+- Jakob Kahl
