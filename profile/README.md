@@ -119,6 +119,7 @@ Plone Core Developers:
 - Jonas Piterek
 - Rob Gietema
 - Balazs Ree
+- Dante Alvarez
 
 We also have four Plone Foundation Members, including a former President of the  Plone Board of Directors, and the chair of the Membership Committee.
 
